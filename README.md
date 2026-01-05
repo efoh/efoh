@@ -4,7 +4,6 @@
 
 <div align="center">
   <h1>kupk</h1>
-  <p>software developer</p>
 </div>
 
 <div align="center">
